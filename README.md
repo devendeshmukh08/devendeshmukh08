@@ -1,16 +1,18 @@
-## Hi there 👋
+# 💫 About Me:
+# Hi, I'm Deven Deshmukh 👋<br><br>🚀 **Software Developer | React.js | Next.js | Sitecore | Front-End Engineering**<br><br>I'm a Software Developer at **Accion Labs** with 2+ years of experience building and maintaining enterprise-grade web applications. I specialize in front-end development, headless CMS architecture, and creating responsive, user-focused digital experiences.<br><br>💻 **What I Do**<br>- Build responsive, pixel-perfect interfaces using React.js and Next.js.<br>- Develop reusable components and scalable front-end architectures.<br>- Work with Sitecore XM/XP and Sitecore AI to build content-driven applications.<br>- Integrate APIs and dynamic content using GraphQL and Apollo Client.<br>- Troubleshoot production issues and improve application performance.<br>- Collaborate with cross-functional teams in Agile environments.<br><br>🏆 **Certifications**<br>- Sitecore AI CMS Developer – Certified<br><br>🛠️ **Tech Stack**<br><br>**Frontend:** React.js, Next.js, JavaScript, TypeScript, HTML5, CSS3<br><br>**CMS & Frameworks:** Sitecore XM/XP, Sitecore AI, Gatsby.js<br><br>**API & Integration:** GraphQL, Apollo Client, REST APIs<br><br>**Tools & DevOps:** Git, GitHub, Bitbucket, Docker, TeamCity, CI/CD<br><br>🤖 **Currently Exploring**<br>- AI-powered development and automation<br>- Emerging AI tools and technologies<br>- Scalable application architecture and modern web development<br><br>🌱 **My Philosophy**<br><br>I believe in writing clean, maintainable code, building meaningful digital experiences, and continuously learning to solve real-world problems through technology.<br><br>📫 **Let's Connect**<br><br>- Email: [daltondeven31@gmail.com](mailto:daltondeven31@gmail.com)<br>- LinkedIn: [Connect with me](https://www.linkedin.com/)<br><br>⚡ **Beyond Coding:** Sports enthusiast, movie lover, web-series watcher, and travel explorer.<br><br>---<br><br>*Building. Learning. Innovating.* 🚀
 
-<!--
-**devendeshmukh08/devendeshmukh08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/deven.dd) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/deven-deshmukh) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:devendeshmukh08@gmail.com) 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 💻 Tech Stack:
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![TeamCity](https://img.shields.io/badge/teamcity-000000.svg?style=for-the-badge&logo=teamcity&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=devendeshmukh08&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=devendeshmukh08&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=devendeshmukh08&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+---
+[![](https://komarev.com/ghpvc/?username=devendeshmukh08&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
